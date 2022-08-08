@@ -1,7 +1,6 @@
 # OpenclassroomsProjects
 All my projects made during the training with Openclassrooms.
 
-```
 
 ### Project 2 : Reservia Website
 https://github.com/Adv13/Reservia-Website
@@ -38,4 +37,4 @@ https://github.com/Adv13/Project-13-Bank-API (back)
 https://github.com/Adv13/HRnet-App
 https://github.com/Adv13/DropdownComponent (composant)
 https://github.com/Adv13/P14_HRnet (old version)
-```
+
